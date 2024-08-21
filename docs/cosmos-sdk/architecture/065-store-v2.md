@@ -181,7 +181,6 @@ provide the following functionality:
 
 * Manage commitment of state (both SS and SC)
 * Provide modules access to state
-* Query delegation (i.e. get a value for a <key, height> tuple)
 * Providing commitment proofs
 
 #### Store Keys

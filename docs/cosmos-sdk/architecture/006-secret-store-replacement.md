@@ -43,7 +43,7 @@ Running tests locally on a Mac require numerous repetitive password entries.
 
 ### Neutral
 
-{neutral consequences}
+
 
 ## References
 

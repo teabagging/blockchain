@@ -6,7 +6,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'blockchain',
   tagline: 'Set up a modern web app by running one command.',
-  url: 'https://e.543x.com',
+  url: 'https://f.543x.com',
   favicon: 'img/favicon.png',
 
   // Set the /<baseUrl>/ pathname under which your site is served

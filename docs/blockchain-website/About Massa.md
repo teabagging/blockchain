@@ -1,10 +1,4 @@
-<br />
 
-<p align="center">
-<img src="logo.png" width="240">
-</p>
-
-<br />
 
 # Massa: The Decentralized and Scaled Blockchain
 

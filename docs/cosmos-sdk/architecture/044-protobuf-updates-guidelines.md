@@ -109,7 +109,7 @@ TODO, needs architecture review. Some topics:
 
 ### Negative
 
-{negative consequences}
+
 
 ### Neutral
 

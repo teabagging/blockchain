@@ -106,7 +106,7 @@ the upgrade to the new storage layer non-state breaking.
 
 ### Neutral
 
-{neutral consequences}
+
 
 ## Further Discussions
 

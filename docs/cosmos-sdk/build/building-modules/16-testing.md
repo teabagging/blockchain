@@ -110,9 +110,7 @@ They must test the whole application flow, from the user perspective (for instan
 For that, the SDK is using `simapp` but you should use your own application (`appd`).
 Here are some examples:
 
-* SDK E2E tests: <https://github.com/cosmos/cosmos-sdk/tree/main/tests/e2e>.
-* Cosmos Hub E2E tests: <https://github.com/cosmos/gaia/tree/main/tests/e2e>.
-* Osmosis E2E tests: <https://github.com/osmosis-labs/osmosis/tree/main/tests/e2e>.
+
 
 :::note warning
 The SDK is in the process of creating its E2E tests, as defined in [ADR-59](https://docs.cosmos.network/main/build/architecture/adr-059-test-scopes). This page will eventually be updated with better examples.

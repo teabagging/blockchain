@@ -24,7 +24,7 @@
 > called out as such. The language in this section is value-neutral. It is simply
 > describing facts. It should clearly explain the problem and motivation that the
 > proposal aims to resolve.
-> {context body}
+
 
 ## Alternatives
 
