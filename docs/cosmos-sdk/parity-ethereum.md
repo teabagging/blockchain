@@ -193,7 +193,7 @@ Replacing `<spec>` with one of the following from the details section below (i.e
 
 <a id="package-list"></a>
 **Package List**
-<details><p>
+
 
 * Parity Ethereum (EthCore) Client Application
   ```bash
@@ -321,7 +321,6 @@ Caching, Importing Blocks, and Block Information
   time-utils triehash-ethereum unexpected parity-version
   ```
 
-</p></details>
 
 ### Contributing to documentation for Parity Ethereum packages
 

@@ -42,15 +42,6 @@ conditional groups, such as:
 
 In global scope:
 
-    #ifdef PROFILE_JEMALLOC
-    #include <jemalloc/jemalloc.h>
-    #endif
-
-And later, within a function scope:
-
-    #ifdef PROFILE_JEMALLOC
-    mallctl("prof.dump", NULL, NULL, NULL, 0);
-    #endif
 
 Fuller descriptions of how to acquire and use jemalloc's api to do memory
 analysis are available at the [jemalloc

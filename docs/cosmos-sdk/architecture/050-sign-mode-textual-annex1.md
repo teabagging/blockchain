@@ -328,7 +328,7 @@ Boolean values are rendered as `True` or `False`.
 
 _This paragraph is in the Annex for informational purposes only, and will be removed in a next update of the ADR._
 
-<details>
+
   <summary>Click to see abandoned idea.</summary>
 
 * all protobuf messages to be used with `SIGN_MODE_TEXTUAL` CAN have a short title associated with them that can be used in format strings whenever the type URL is explicitly referenced via the `cosmos.msg.v1.textual.msg_title` Protobuf message option.
@@ -355,4 +355,4 @@ In those cases, we recommend to drop the version (e.g. `v1`) in the string if th
 * `mychain.mymodule.v1.MsgDo` -> `mymodule do something`
 * `mychain.mymodule.v2.MsgDo` -> `mymodule v2 do something`
 
-</details>
+

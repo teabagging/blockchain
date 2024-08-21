@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://github.com/trufflesuite/ganache-ui/blob/develop/static/icons/png/128x128.png?raw=true")
-</p>
 
 ## Ganache
 
 Ganache is your personal blockchain for Ethereum development.
 
-<p align="center">
-  <img src="https://github.com/trufflesuite/ganache-ui/blob/develop/.github/images/ganache_screenshot.jpg?raw=true"/>
-</p>
+
 
 ### Getting started
 

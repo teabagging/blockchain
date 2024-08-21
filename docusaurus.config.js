@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'blockchain',
-  tagline: 'Set up a modern web app by running one command.',
+  tagline: 'Blockchain is a shared, immutable ledger',
   url: 'https://f.543x.com',
   favicon: 'img/favicon.png',
 
@@ -67,7 +67,7 @@ const config = {
       announcementBar: {
         id: 'support_ukraine',
         content:
-          '🥳Support🥳<a target="_blank" rel="noopener noreferrer" href="https://www.543x.com">www.543x.com</a>🥳',
+          '🥳<a target="_blank" rel="noopener noreferrer" href="https://www.543x.com">www.543x.com</a>🥳',
         backgroundColor: '#20232a',
         textColor: '#fff',
         isCloseable: false,

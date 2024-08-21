@@ -1,8 +1,6 @@
----
-sidebar_position: 1
----
 
-# gRPC, REST, and CometBFT Endpoints
+
+# CometBFT Endpoints
 
 :::note Synopsis
 This document presents an overview of all the endpoints a node exposes: gRPC, REST as well as some other endpoints.

@@ -1,23 +1,10 @@
-# :warning: Project is in Maintenance Mode :warning:
+## Manticore
 
 This project is no longer internally developed and maintained. However, we are happy to review and accept small, well-written pull requests by the community. We will only consider bug fixes and minor enhancements.
 
 Any new or currently open issues and discussions shall be answered and supported by the community.
 
-# Manticore
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trailofbits/manticore/master/docs/images/manticore.png" width="256" title="Manticore">
-</p>
-<br />
-
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/trailofbits/manticore/ci.yml?branch=master)](https://github.com/trailofbits/manticore/actions?query=workflow%3ACI)
-[![Coverage Status](https://coveralls.io/repos/github/trailofbits/manticore/badge.svg)](https://coveralls.io/github/trailofbits/manticore)
-[![PyPI Version](https://badge.fury.io/py/manticore.svg)](https://badge.fury.io/py/manticore)
-[![Slack Status](https://slack.empirehacking.nyc/badge.svg)](https://slack.empirehacking.nyc)
-[![Documentation Status](https://readthedocs.org/projects/manticore/badge/?version=latest)](http://manticore.readthedocs.io/en/latest/?badge=latest)
-[![Example Status](https://img.shields.io/github/actions/workflow/status/trailofbits/manticore-examples/ci.yml?branch=master)](https://github.com/trailofbits/manticore-examples/actions?query=workflow%3ACI)
-[![LGTM Total Alerts](https://img.shields.io/lgtm/alerts/g/trailofbits/manticore.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/trailofbits/manticore/alerts/)
+## Manticore
 
 
 
@@ -88,7 +75,7 @@ Analysis results will be placed into a workspace directory beginning with `mcore
 #### EVM
 Manticore CLI automatically detects you are trying to test a contract if (for ex.)
  the contract has a `.sol` or a `.vy` extension. See a [demo](https://asciinema.org/a/154012).
-<details>
+
   <summary>Click to expand:</summary>
   
 ```bash
@@ -106,7 +93,7 @@ $ manticore examples/evm/umd_example.sol
 [13740] m.c.manticore:INFO: Generated testcase No. 37 - THROW(3 txs)
 [9921] m.c.manticore:INFO: Results in ~/manticore/mcore_gsncmlgx
 ```
-</details>
+
 
 ##### Manticore-verifier
 
@@ -116,7 +103,7 @@ Checkout manticore-verifier [documentation](http://manticore.readthedocs.io/en/l
 See a [demo](https://asciinema.org/a/xd0XYe6EqHCibae0RP6c7sJVE)
 
 #### Native
-<details>
+
   <summary>Click to expand:</summary>
   
 ```bash
@@ -127,7 +114,7 @@ $ manticore examples/linux/basic
 [9507] m.c.manticore:INFO: Results in ~/manticore/mcore_7u7hgfay
 [9507] m.n.manticore:INFO: Total time: 2.8029580116271973
 ```
-</details>
+
 
 
 ### API
@@ -137,7 +124,7 @@ Manticore provides a Python programming interface which can be used to implement
 #### EVM
 For Ethereum smart contracts, the API can be used for detailed verification of arbitrary contract properties. Users can set the starting conditions, 
 execute symbolic transactions, and then review discovered states to ensure invariants for a contract hold.
-<details>
+
   <summary>Click to expand:</summary>
   
 ```python
@@ -165,13 +152,13 @@ for state in m.ready_states:
     print("can value be 1? {}".format(state.can_be_true(value == 1)))
     print("can value be 200? {}".format(state.can_be_true(value == 200)))
 ```
-</details>
+
 
 #### Native
 It is also possible to use the API to create custom analysis tools for Linux binaries. Tailoring the initial state helps avoid state explosion
 problems that commonly occur when using the CLI. 
 
-<details>
+
   <summary>Click to expand:</summary>
   
 ```python
@@ -190,13 +177,13 @@ def hook(state):
 
 m.run()
 ```
-</details>
+
 
 
 #### WASM
 Manticore can also evaluate WebAssembly functions over symbolic inputs for property validation or general analysis. 
 
-<details>
+
   <summary>Click to expand:</summary>
   
 ```python
@@ -222,7 +209,7 @@ m.collatz(arg_gen)
 for idx, val_list in enumerate(m.collect_returns()):
     print("State", idx, "::", val_list[0])
 ```
-</details>
+
 
 ## Requirements
 * Manticore requires Python 3.7 or greater 

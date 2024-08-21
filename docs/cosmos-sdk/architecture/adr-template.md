@@ -34,9 +34,9 @@
 
 ## Decision
 
-> This section describes our response to these forces. It is stated in full
-> sentences, with active voice. "We will ..."
-> {decision body}
+This section describes our response to these forces. It is stated in full
+ sentences, with active voice. "We will ..."
+
 
 ## Consequences
 
@@ -80,4 +80,3 @@ changes. Other ADRs can choose to include links to test cases if applicable.
 
 ## References
 
-* {reference link}

@@ -45,11 +45,7 @@ The default [prefix][1] is typically `/usr/local` on Linux and macOS and
 
     The output should include an entry for Ripple such as the following:
 
-        gpg: WARNING: no command supplied.  Trying to guess what you mean ...
-        pub   rsa3072 2019-02-14 [SC] [expires: 2026-02-17]
-            C0010EC205B35A3310DC90DE395F97FFCCAFD9A2
-        uid           TechOps Team at Ripple <techops+rippled@ripple.com>
-        sub   rsa3072 2019-02-14 [E] [expires: 2026-02-17]
+   
 
 
     In particular, make sure that the fingerprint matches. (In the above example, the fingerprint is on the third line, starting with `C001`.)
@@ -106,41 +102,7 @@ The default [prefix][1] is typically `/usr/local` on Linux and macOS and
     - `unstable` for pre-release builds (`release` branch)
     - `nightly` for experimental/development builds (`develop` branch)
 
-    *Stable*
 
-        cat << REPOFILE | sudo tee /etc/yum.repos.d/ripple.repo
-        [ripple-stable]
-        name=XRP Ledger Packages
-        enabled=1
-        gpgcheck=0
-        repo_gpgcheck=1
-        baseurl=https://repos.ripple.com/repos/rippled-rpm/stable/
-        gpgkey=https://repos.ripple.com/repos/rippled-rpm/stable/repodata/repomd.xml.key
-        REPOFILE
-
-    *Unstable*
-
-        cat << REPOFILE | sudo tee /etc/yum.repos.d/ripple.repo
-        [ripple-unstable]
-        name=XRP Ledger Packages
-        enabled=1
-        gpgcheck=0
-        repo_gpgcheck=1
-        baseurl=https://repos.ripple.com/repos/rippled-rpm/unstable/
-        gpgkey=https://repos.ripple.com/repos/rippled-rpm/unstable/repodata/repomd.xml.key
-        REPOFILE
-
-    *Nightly*
-
-        cat << REPOFILE | sudo tee /etc/yum.repos.d/ripple.repo
-        [ripple-nightly]
-        name=XRP Ledger Packages
-        enabled=1
-        gpgcheck=0
-        repo_gpgcheck=1
-        baseurl=https://repos.ripple.com/repos/rippled-rpm/nightly/
-        gpgkey=https://repos.ripple.com/repos/rippled-rpm/nightly/repodata/repomd.xml.key
-        REPOFILE
 
 2. Fetch the latest repo updates:
 

@@ -1,4 +1,4 @@
-# Decentralized Autonomous Regulated Company (DARC)
+# Decentralized Autonomous 
 
 Welcome to the official repository for the Decentralized Autonomous Regulated Company (DARC) project. DARC is a project
 that aims to create a decentralized autonomous company that is regulated by a plugin system based on commercial laws.

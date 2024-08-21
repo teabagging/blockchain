@@ -1,12 +1,4 @@
 
-
-# Massa: The Decentralized and Scaled Blockchain
-
-[![CI](https://github.com/massalabs/massa/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/massalabs/massa/actions/workflows/ci.yml?query=branch%3Amain)
-[![Docs](https://img.shields.io/static/v1?label=docs&message=massa&color=&style=flat)](https://massalabs.github.io/massa/massa_node/)
-[![Open in Gitpod](https://shields.io/badge/Gitpod-contribute-brightgreen?logo=gitpod&style=flat)](https://gitpod.io/#https://github.com/massalabs/massa)
-[![codecov](https://codecov.io/gh/massalabs/massa/graph/badge.svg?token=598URC32TV)](https://codecov.io/gh/massalabs/massa)
-
 ## About Massa
 
 [Massa](https://massa.net) is a new blockchain based on a [multithreaded technology](https://arxiv.org/pdf/1803.09029)

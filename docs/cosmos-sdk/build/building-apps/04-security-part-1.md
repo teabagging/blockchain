@@ -1,4 +1,4 @@
-# The Cosmos Security Handbook: Part 1 - Core Chain
+# The Cosmos Core Chain
 <!-- markdown-link-check-disable-next-line -->
 > Thank you to **[Roman Akhtariev](https://twitter.com/akhtariev) and [Alpin Yukseloglu](https://twitter.com/0xalpo)** for authoring this post. The original post can be found [here](https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1/).
 

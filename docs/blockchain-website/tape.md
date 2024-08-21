@@ -1,31 +1,3 @@
-<div align="center">
-    <img src="https://static.tape.xyz/brand/og.png" alt="banner">
-    <br/>
-    <br/>
-    <p>social media platform</p>
-    <a href="https://tape.xyz">tape.xyz</a>
-</div>
-
-<div align="center">
-    <a href="https://tape.xyz/u/sasicodes">
-        <img src="https://lens-badge.vercel.app/api/badge/lens/sasicodes" alt="Lens">
-    </a>
-    <a href="https://www.gitpoap.io/gh/tapexyz/tape">
-        <img src="https://public-api.gitpoap.io/v1/repo/tapexyz/tape/badge" alt="Gitpoap">
-    </a>
-    <a href="https://tape.xyz/discord">
-       <img src="https://img.shields.io/discord/980882088783913010.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
-    </a>
-    <a href="https://x.com/tapexyz">
-        <img src="https://img.shields.io/twitter/follow/tapexyz?style=social" alt="Twitter">
-    </a>
-    <a href="https://status.tape.xyz">
-        <img src="https://betteruptime.com/status-badges/v1/monitor/dfaw.svg" alt="Better Uptime">
-    </a>
-    <span>
-        <img src="https://img.shields.io/github/stars/tapexyz/tape" alt="Stargazers">
-    </span>
-</div>
 
 
 ## 📽️ About
@@ -82,9 +54,7 @@ and visit http://localhost:4783
 
 We love contributors! Feel free to contribute to this project but please read the [Contributing Guidelines](CONTRIBUTING.md) before opening an issue or PR so you understand the branching strategy and local development environment.
 
-<a href="https://github.com/tapexyz/tape/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tapexyz/tape" />
-</a>
+
 
 ## 📜 License
 

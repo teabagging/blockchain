@@ -1,4 +1,4 @@
-# BulletproofTxManager Architecture Overview
+# Architecture Overview
 
 # Diagrams
 

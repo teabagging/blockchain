@@ -1,26 +1,10 @@
-<div align="center">
-  <img src="./DappLearning-logo.png" style="margin: 0 auto 40px;" />
-  <!-- <h1>Dapp Learning</h1> -->
+
   <h4 align="center">
     Definitive Guide for Decentralized-app(Dapp) Development on Blockchain
   </h4>
   <p>Step-by-step Dapp practice through classical projects.</p>
-  <br />
-  <p>
-    <a href="https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/docs/imgs/wechat-group-helper.png"><img alt="Wechat group helper" src="https://img.shields.io/static/v1?&label=&logo=wechat&message=wechat group&color=brightgreen&logoColor=white"></a>
-    <a href="https://twitter.com/Dapp_Learning"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dapp_learning?label=Follow"></a>
-    <a href="https://www.youtube.com/c/DappLearning"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCdJKZVxO55N3n2BQYXMDAcQ?style=social"></a>
-    <a href="https://discord.gg/cRYNYXqPeR"><img src="https://img.shields.io/discord/907080577096757279?color=5865F2&logo=discord&logoColor=white&label=discord" alt="Discord server" /></a>
-    <a href="https://t.me/joinchat/48Mp2jy4Yw40MmI1"><img src="https://img.shields.io/badge/telegram-blue?color=blue&logo=telegram&logoColor=white" alt="Telegram group" /></a>
-    <!-- <a href="https://gitcoin.co/grants/3414/dapp-learning-developer-group-1"><img alt="Gitcoin Grants" src="https://img.shields.io/badge/Gitcoin-Grants-yellow"></a> -->
-    <!-- <a href="https://github.com/Dapp-Learning-DAO/Dapp-Learning"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dapp-Learning-DAO/Dapp-Learning"></a> -->
-  </p>
-</div>
 
 
-
-[中文](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md) / English
-## Preface
 
 We are designed for developers to step into blockchain DAPP development, where they can learn **DeFi, NFT, DAO, CRYPTO** projects. We hope we could not only give **junior developers** a feasible and easy-to-use blockchain **DAPP** learning roadmap, but also present **advanced developers** with a platform for communication and cooperation.
 
@@ -33,7 +17,7 @@ We need more builders to help make our community grow -- contributors are welcom
 Join our developer community by submitting PR or sharing at [dapp learning university](https://dapplearning.org/sharing). Once you submit three PRs, you will be promoted to be a pull request reviewer who could participate in our Dao's governance. Join our [Discord](https://discord.gg/cRYNYXqPeR) or [Telegram](https://t.me/joinchat/48Mp2jy4Yw40MmI1) if you want to communicate  any technical issues  with us.
 For more **project management rules**, please see [how new members participate and project governance rules](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/docs/dao-en.md). Welcome to join us if you share the same value.
 
-<details>
+
 <summary>Official links</summary>
 
 - [Github](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
@@ -49,9 +33,9 @@ For more **project management rules**, please see [how new members participate a
 - [Project Fund Management](https://app.safe.global/matic:0x2A6D09B3b11E5455a37F907f2ec885E0Be704779/balances)
 - [linktr](https://linktr.ee/dapplearning)
 
-</details>
 
-<details>
+
+
 <summary>Technology Stack: </summary>
 
 - `web3.js`
@@ -61,7 +45,7 @@ For more **project management rules**, please see [how new members participate a
 - `Rust` (Optional)
 - `Go` (Optional)
 
-</details>
+
 
 ## Project structure
 The project is divided into two parts: **Basic task** and **Project task**
@@ -337,50 +321,7 @@ Direct donation to our dev team's fund is also appreciated:
 
 Sponsorship grants are managed under a multi-signature wallet by core contributor team; the fund is available to all contributors for their stellar additions to the project. We look forward to see your contributions soon.
 
-## Cooperative partner
 
-
-
-<div align="left">
-  <a href="https://www.ethereum.cn/">
-    <img align="top" src="./docs/imgs/partners/ECN-logo.png" />
-  </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://www.ethplanet.org/">
-    <img align="top" src="./docs/imgs/partners/ethplanet-logo.png" />
-  </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://learnblockchain.cn/">
-    <img align="top" src="./docs/imgs/partners/learnblockchain-logo.png" />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://thublockchain.org/">
-    <img align="top" src="./docs/imgs/partners/THUBA-logo.png" />
-  </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="#">
-    <img align="top" src="./docs/imgs/partners/PKU-logo.png" />
-  </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://btcu.tech/">
-    <img align="top" src="./docs/imgs/partners/BTCU-logo.png" />
-  </a>
-</div>
 
 
 
@@ -389,74 +330,11 @@ Sponsorship grants are managed under a multi-signature wallet by core contributo
 Shout out to the following organizations for their unconditional donations to us/the open-source project (in no particular order).
 
 
-<div align="left">
-  <a href="https://ethereum.foundation/" style="display: inline-block; ">
-    <img align="top" src="./docs/imgs/sponsor-partners/ethereum-foundation-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.optimism.io/">
-    <img align="top" src="./docs/imgs/sponsor-partners/OP-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.starknet.io/">
-    <img align="top" src="./docs/imgs/sponsor-partners/starknet-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scroll.io/">
-    <img align="top" src="./docs/imgs/sponsor-partners/Scroll-logo.png" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://www.nervos.org/">
-    <img align="top" src="./docs/imgs/sponsor-partners/nervos-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/planckeropencommunity/">
-    <img align="top" src="./docs/imgs/sponsor-partners/plancker-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://degate.com/">
-    <img align="top" src="./docs/imgs/sponsor-partners/Degate-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://loopring.org/">
-    <img align="top" src="./docs/imgs/sponsor-partners/Loopring-logo.png" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://snzholding.com/">
-    <img align="top" src="./docs/imgs/sponsor-partners/SNZ-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.bing-ventures.com/">
-    <img align="top" src="./docs/imgs/sponsor-partners/BingVentures-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drklab.net/">
-    <img align="top" src="./docs/imgs/sponsor-partners/DRK-lab-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://capital.hashkey.com/en/">
-    <img align="top" src="./docs/imgs/sponsor-partners/Hashkey-logo.png" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://eth-store.w3eth.io/">
-    <img align="top" src="./docs/imgs/sponsor-partners/EthStorage-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bingx.com/en-us/">
-    <img align="top" src="./docs/imgs/sponsor-partners/BingX-logo.png" />
-  </a>
-  <a href="https://mapprotocol.io/">
-    <img align="top" src="./docs/imgs/sponsor-partners/MapProtocol-logo.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://minaprotocol.com/">
-    <img align="top" src="./docs/imgs/sponsor-partners/Mina-logo.png" />
-  </a>
-</div>
 
 
 ## Contributors
 
-<div align="center">
-  <h4 align="center">
-    Thanks to the contributors of Dapp Learning
-  </h4>
-  <a href = "https://github.com/Dapp-Learning-DAO/Dapp-Learning/graphs/contributors">
-    <img src = "https://contrib.rocks/image?repo=Dapp-Learning-DAO/Dapp-Learning&max=200"/>
-  </a>
-</div>
+
 
 
 Disclaimer: DappLearning is a non-profit learning organization and not involved in any commercial events or endorsements for commercial projects.
