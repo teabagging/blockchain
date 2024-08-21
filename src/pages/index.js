@@ -80,7 +80,7 @@ function Home() {
           <div className={styles.getStarted}>
             <Link
               className="button button--outline button--primary button--lg"
-              to={useBaseUrl('docs/create-reacts%20docs/getting-started')}
+              to={useBaseUrl('docs/cosmos-sdk/Introduction')}
             >
               Get Started
             </Link>
